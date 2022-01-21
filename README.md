@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subash-KC10
+- 👋 Hi, I’m Subash KC
 - 👀 I’m interested in playing musical instruments
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me: subash.skc1@gmail.com
